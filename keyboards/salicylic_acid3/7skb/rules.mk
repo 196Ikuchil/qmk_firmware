@@ -14,3 +14,6 @@ RGBLIGHT_ENABLE = yes       # Enable WS2812 RGB underlight.
 SPLIT_KEYBOARD = yes
 
 DEFAULT_FOLDER = salicylic_acid3/7skb/rev1
+
+UNICODE_ENABLE = no     
+UNICODEMAP_ENABLE = yes # emoji
